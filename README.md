@@ -5,3 +5,4 @@ This repo implements some testing techniques with Go that 's mentioned in [this 
 ## List of techniques
 
 - Subtests
+- Table driven tests
