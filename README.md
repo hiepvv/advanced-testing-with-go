@@ -6,3 +6,4 @@ This repo implements some testing techniques with Go that 's mentioned in [this 
 
 - Subtests
 - Table driven tests
+- Test fixtures with golden files
