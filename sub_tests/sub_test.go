@@ -1,4 +1,4 @@
-package sub_tests
+package subtests
 
 import (
 	"testing"

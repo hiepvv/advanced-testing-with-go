@@ -1,4 +1,4 @@
-package table_driven_tests
+package tabledriventests
 
 import (
 	"testing"
